@@ -26,7 +26,7 @@ set showcmd
 """"""""""
 " visual "
 """""""""
-colorscheme elflord
+"colorscheme elflord
 
 " シンタックス
 syntax on
