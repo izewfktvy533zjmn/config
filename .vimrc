@@ -1,6 +1,6 @@
-﻿"""""""""""
+"""""""""""
 " setting "
-""""""""""
+"""""""""""
 
 "文字コードをUFT-8に設定
 set encoding=utf-8
@@ -22,11 +22,9 @@ set showcmd
 
 
 
-
 """"""""""
 " visual "
-"""""""""
-"colorscheme elflord
+""""""""""
 
 " シンタックス
 syntax on
@@ -68,6 +66,7 @@ nnoremap k gk
 hi Comment ctermfg=blue
 
 
+
 """""""
 " tab "
 """""""
@@ -107,3 +106,4 @@ set hlsearch
 
 " ESC連打でハイライト解除
 nmap <Esc><Esc><Esc> :nohlsearch<CR><Esc>
+
