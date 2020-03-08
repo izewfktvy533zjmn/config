@@ -107,3 +107,5 @@ set hlsearch
 " ESC連打でハイライト解除
 nmap <Esc><Esc><Esc> :nohlsearch<CR><Esc>
 
+" インサートモードのEscをjjにキーバインド
+inoremap <silent> jj <ESC>
